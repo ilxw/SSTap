@@ -2,3 +2,6 @@
 
 
 # 推荐使用 ： SSTap-beta-setup-1.0.9.7 版本，因为最新版本默认没有全局代理功能，需要自己配置！！
+
+
+添加规则请看 https://github.com/FQrabbit/SSTap-Rule
